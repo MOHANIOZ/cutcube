@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "cutcube-86aad"
+  },
+  "targets": {},
+  "etags": {
+    "cutcube-86aad": {
+      "extensionInstances": {}
+    }
+  }
+}
